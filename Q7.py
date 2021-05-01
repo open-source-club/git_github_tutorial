@@ -1,5 +1,0 @@
-n = input("Enter numbers: ")
-l1 = n.split(" ")
-print(f"The list of the numbers is: {l1}")
-integer="".join(l1)
-print(f"The single integer formed is: {integer}")
